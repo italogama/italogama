@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/italogamaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>  
 <br>
-<p>Sou formado em Ciência da Computação e Trabalho atualmente como Desenvolvedor Senior (Front-End) na 
+<p>Sou formado em Ciência da Computação e Trabalho atualmente como Desenvolvedor Senior (FullStack) na 
     <a style="text-decoration: none;" href="https://www.findup.com.br/">FindUp</a>
 </p>
     <ul>Possuo experiência com:
