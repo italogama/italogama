@@ -1,4 +1,5 @@
 
+<body style="font-family: 'Roboto', sans-serif;">
 <h1 align="center"> Hi, I am Italo Gama <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <div align="center">
     <a href="https://instagram.com/_italogama" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -57,6 +58,7 @@
         <br> - Basic Software Test (16 hrs)
     </p>
 </div>
+</body>
 
 <div align="center">
     <img align="center" alt="Italogama-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
